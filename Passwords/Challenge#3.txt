@@ -1,0 +1,26 @@
+""" Challenge #3 : Passwords.py """
+
+You need to create a program that will store the user ID and passwords for the users of a
+system. It should display the following menu:
+
+	1) Create a new User ID
+	2) Change a password
+	3) Display all User IDs
+	4) Quit
+
+	Enter Selection:
+
+
+/************************************************************************/
+Sample
+
+Input:
+
+
+
+Output:
+
+
+
+/************************************************************************/
+

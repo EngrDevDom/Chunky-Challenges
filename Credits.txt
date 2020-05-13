@@ -1,0 +1,1 @@
+Credits to Nichola Lacey on the book Python by Example.

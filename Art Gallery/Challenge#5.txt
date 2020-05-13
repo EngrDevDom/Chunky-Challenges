@@ -1,0 +1,25 @@
+""" Challenge #5 : Art_Gallery.py """
+
+A small art gallery is selling works from different artists and wants to 
+keep track of the paintings using an SQL database. You need to create a 
+user-friendly system to keep track of the art. This should include using 
+a GUI. Below is the current data that needs to be stored in a database.
+
+Artists Contact Details: -> in database (excel file)
+
+
+
+/************************************************************************/
+Sample
+
+Input:
+
+
+
+Output:
+
+
+
+/************************************************************************/
+
+

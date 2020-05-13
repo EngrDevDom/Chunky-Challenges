@@ -1,0 +1,37 @@
+""" Challenge #4 : Times_table.py """
+
+Create a program that will display the multiplication table given a number.
+
+When the user enters a number in the first box and clicks on the 
+“View Times Table” button it should show the times table in the list area.
+
+For instance, if the user entered 99 they would see the list as shown in
+the example on the right. The “Clear” button should clear both boxes.
+
+
+
+/************************************************************************/
+Sample
+
+Input:
+
+	Enter a number: 99
+
+
+Output:
+
+	1x99 = 99
+	2x99 = 198
+	3x99 = 297
+	4x99 = 396
+	5x99 = 495
+	6x99 = 594
+	7x99 = 693
+	8x99 = 792
+	9x99 = 891
+	10x99 = 990
+
+/************************************************************************/
+
+
+
